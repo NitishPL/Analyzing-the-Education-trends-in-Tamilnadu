@@ -9,4 +9,3 @@ The dashboard should look like an article predicting the basic issues. Use appro
 Business Requirements
 Title: Literacy Rate in Tamilnadu
 
-Recreate the below dashboard in Tableau.
